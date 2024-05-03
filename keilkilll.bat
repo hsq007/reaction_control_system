@@ -1,0 +1,24 @@
+del .\APP\USER\MDK_ARM\Objects\*.bak
+del .\APP\USER\MDK_ARM\Objects\*.ddk
+del .\APP\USER\MDK_ARM\Objects\*.edk
+del .\APP\USER\MDK_ARM\Objects\*.lst
+del .\APP\USER\MDK_ARM\Objects\*.lnp
+del .\APP\USER\MDK_ARM\Objects\*.mpf
+del .\APP\USER\MDK_ARM\Objects\*.mpj
+del .\APP\USER\MDK_ARM\Objects\*.obj
+del .\APP\USER\MDK_ARM\Objects\*.omf
+del .\APP\USER\MDK_ARM\Objects\*.plg
+del .\APP\USER\MDK_ARM\Objects\*.rpt
+del .\APP\USER\MDK_ARM\Objects\*.tmp
+del .\APP\USER\MDK_ARM\Objects\*.__i
+del .\APP\USER\MDK_ARM\Objects\*.crf
+del .\APP\USER\MDK_ARM\Objects\*.o
+del .\APP\USER\MDK_ARM\Objects\*.d
+del .\APP\USER\MDK_ARM\Objects\*.axf
+del .\APP\USER\MDK_ARM\Objects\*.tra
+del .\APP\USER\MDK_ARM\Objects\*.dep           
+del .\APP\USER\MDK_ARM\Objects\*.iex
+del .\APP\USER\MDK_ARM\Objects\*.htm
+del .\APP\USER\MDK_ARM\Objects\*.sct
+del .\APP\USER\MDK_ARM\Objects\*.map
+exit
