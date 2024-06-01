@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "systick.h": "c",
+        "led.h": "c",
+        "math.h": "c",
+        "rcs.h": "c",
+        "value_types.h": "c",
+        "stm32f10x.h": "c",
+        "rcs_drv.h": "c"
+    }
+}

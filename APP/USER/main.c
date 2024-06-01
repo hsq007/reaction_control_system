@@ -18,43 +18,6 @@ int main(void)
 	}
 }
 
-
-uint16_t rcs_state = 0x00;
-void rcs_task(void)
-{
-	switch(rcs_state)
-	{
-		case 0: // OFF
-		{
-			break;
-		}
-
-		case 10: // 延时 5s
-		{
-			break;
-		}
-
-		case 20: // 正向喷气
-		{
-			break;
-		}
-
-		case 30: // 延时 1s
-		{
-			break;
-		}
-
-		case 40: // 停止喷气
-		{
-			break;
-		}
-
-		default:
-		break;
-	}
-}
-
-
 /**
  * LED 闪灯任务 
  * run_freq 调用频率 Hz
